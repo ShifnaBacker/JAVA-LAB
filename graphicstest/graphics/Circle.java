@@ -1,4 +1,4 @@
-package graphicstest.graphics;
+package graphics;
 
 public class Circle implements Shape {
     private double radius;

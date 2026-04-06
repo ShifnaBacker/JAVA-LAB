@@ -1,4 +1,4 @@
-import graphicstest.graphics.*;
+import graphics.*;
 
 public class TestGraphics {
     public static void main(String[] args) {

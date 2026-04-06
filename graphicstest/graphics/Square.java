@@ -1,4 +1,4 @@
-package graphicstest.graphics;
+package graphics;
 
 public class Square implements Shape {
     private double side;

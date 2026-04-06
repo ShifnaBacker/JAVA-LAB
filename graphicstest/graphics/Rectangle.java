@@ -1,4 +1,4 @@
-package graphicstest.graphics;
+package graphics;
 
 public class Rectangle implements Shape {
     private double length;

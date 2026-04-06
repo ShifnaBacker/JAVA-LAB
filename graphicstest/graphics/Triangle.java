@@ -1,4 +1,4 @@
-package graphicstest.graphics;
+package graphics;
 
 public class Triangle implements Shape {
     private double base;
